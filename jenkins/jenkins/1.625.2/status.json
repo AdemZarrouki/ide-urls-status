@@ -1,13 +1,9 @@
 {
-  "manual" : false,
-  "urls" : {
-    "790670042" : {
-      "success" : {
-        "timestamp" : "2025-10-02T03:45:37.443968350Z"
-      },
-      "error" : {
-        "timestamp" : "2025-10-01T03:54:57.167796077Z",
-        "code" : -1
+  "manual": false,
+  "urls": {
+    "790670042": {
+      "success": {
+        "timestamp": "2026-06-03T18:30:37.394646717Z"
       }
     }
   }

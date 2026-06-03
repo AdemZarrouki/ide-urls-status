@@ -1,13 +1,9 @@
 {
-  "manual" : false,
-  "urls" : {
-    "547818781" : {
-      "success" : {
-        "timestamp" : "2025-04-11T04:00:45.006481420Z"
-      },
-      "error" : {
-        "timestamp" : "2025-04-10T04:24:38.843758826Z",
-        "code" : 403
+  "manual": false,
+  "urls": {
+    "547818781": {
+      "success": {
+        "timestamp": "2026-06-03T19:18:34.362658250Z"
       }
     }
   }

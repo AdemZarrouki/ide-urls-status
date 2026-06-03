@@ -1,13 +1,9 @@
 {
-  "manual" : false,
-  "urls" : {
-    "967934151" : {
-      "success" : {
-        "timestamp" : "2025-07-07T04:22:58.923182021Z"
-      },
-      "error" : {
-        "timestamp" : "2025-07-06T05:05:34.221602779Z",
-        "code" : -1
+  "manual": false,
+  "urls": {
+    "967934151": {
+      "success": {
+        "timestamp": "2026-06-03T19:20:06.479085507Z"
       }
     }
   }

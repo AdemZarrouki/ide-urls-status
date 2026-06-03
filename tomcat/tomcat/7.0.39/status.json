@@ -1,13 +1,9 @@
 {
-  "manual" : false,
-  "urls" : {
-    "71850320" : {
-      "success" : {
-        "timestamp" : "2025-07-07T04:22:40.553765323Z"
-      },
-      "error" : {
-        "timestamp" : "2025-07-06T04:52:48.932743183Z",
-        "code" : -1
+  "manual": false,
+  "urls": {
+    "71850320": {
+      "success": {
+        "timestamp": "2026-06-03T19:19:49.999311856Z"
       }
     }
   }

@@ -1,13 +1,9 @@
 {
-  "manual" : false,
-  "urls" : {
-    "1224585320" : {
-      "success" : {
-        "timestamp" : "2025-09-24T03:56:24.730955207Z"
-      },
-      "error" : {
-        "timestamp" : "2025-09-23T04:08:40.765090051Z",
-        "code" : -1
+  "manual": false,
+  "urls": {
+    "1224585320": {
+      "success": {
+        "timestamp": "2026-06-03T19:07:45.201514545Z"
       }
     }
   }
