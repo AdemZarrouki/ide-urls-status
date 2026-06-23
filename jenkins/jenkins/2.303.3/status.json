@@ -1,9 +1,13 @@
 {
-  "manual": false,
-  "urls": {
-    "-2106201895": {
-      "success": {
-        "timestamp": "2026-06-03T18:30:44.677778123Z"
+  "manual" : false,
+  "urls" : {
+    "-2106201895" : {
+      "success" : {
+        "timestamp" : "2023-11-24T03:34:46.881105086Z"
+      },
+      "error" : {
+        "timestamp" : "2023-11-23T03:28:23.643045181Z",
+        "code" : 404
       }
     }
   }
